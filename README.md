@@ -34,4 +34,4 @@ Feel free to explore my projects and contact me with any questions!
 
 ---
 
-Thank you for visiting!
+Thank you for visiting !
