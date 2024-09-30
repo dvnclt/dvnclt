@@ -30,7 +30,7 @@ I have a preference for the following areas:
 I place great importance on writing clean code and adhering to best practices.
 I believe that clarity and maintainability are essential for effective development.
 
-Feel free to explore my projects and contact me with any questions!
+Feel free to explore my projects and contact me with any questions !
 
 ---
 
